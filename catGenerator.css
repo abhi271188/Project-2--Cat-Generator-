@@ -1,0 +1,22 @@
+.container-1
+{
+    border: 1px solid black;
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+.flex-cat-generator-row-1,.flex-cat-generator-row-2
+{
+    border: 1px solid black;
+    padding: 5px;
+    justify-content: space-around;
+}
+.flex-cat-generator-row-1 button
+{
+    border: 1px solid black;
+}
+.flex-cat-generator-row-2 img
+{
+    padding: 10px;
+    justify-content: space-around;
+}
